@@ -1,4 +1,4 @@
 # My-java-codes
-core concept of java
+Core Concept of Java
 <br>
 By yogidas bairagi
